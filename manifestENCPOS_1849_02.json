@@ -2,7 +2,7 @@
   "id": "https://iiif.chartes.psl.eu/manifests/encpos/manifestENCPOS_1849_02.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "label": {"fr":"ENCPOS_1849_02"},
+  "label": {"fr":["ENCPOS_1849_02"]},
   "thumbnail": [{
     "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1"
   }],
@@ -11,15 +11,15 @@
   "logo": "https://iiif.chartes.psl.eu/img/logo-enc.png",
   "metadata": [
     {
-      "label": {"fr": "Publisher"},
-      "value": {"fr": "École nationale des chartes"}
+      "label": {"fr": ["Publisher"]},
+      "value": {"fr": ["École nationale des chartes"]}
     }
   ],
       "items": [
         {
           "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1",
           "type": "Canvas",
-          "label": {"none": "p1"},
+          "label": {"none": ["p1"]},
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -50,7 +50,7 @@
         {
           "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f2",
           "type": "Canvas",
-          "label": {"none": "p2"},
+          "label": {"none": ["p2"]},
           "images": [
             {
               "context": "http://iiif.io/api/presentation/3/context.json",
