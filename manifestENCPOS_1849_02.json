@@ -39,7 +39,7 @@
               "motivation": "painting",
               "resource": {
                 "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_01.TIF/full/full/0/default.jpg",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "format": "image/jpeg",
                 "service": {
                   "context": "http://iiif.io/api/image/3/context.json",
@@ -70,7 +70,7 @@
               "motivation": "painting",
               "resource": {
                 "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_02.TIF/full/full/0/default.jpg",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "format": "image/jpeg",
                 "service": {
                   "context": "http://iiif.io/api/image/2/context.json",
@@ -91,6 +91,15 @@
         }
       ],
       "thumbnail": [{
-        "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1"
+        "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1",
+	      "type": "Image",
+		  "format": "image/png",
+		  "service": [
+			  {
+			    "id": "https://example.org/service/inst1",
+			    "type": "ImageService3",
+			    "profile": "level2"
+			  }
+			]
       }]
 }
