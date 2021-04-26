@@ -4,7 +4,8 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "label": {"fr":["ENCPOS_1849_02"]},
   "thumbnail": [{
-    "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1"
+    "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1",
+    "type": "Image"
   }],
   "attribution": "École nationale des chartes",
   "rights": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
@@ -55,7 +56,7 @@
           "width": 1612,
           "thumbnail": {
             "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_01.TIF/full/180,/0/default.jpg",
-            "type": "dctypes:Image"
+            "type": "Image"
           }
         },
         {
@@ -86,7 +87,7 @@
           "width": 1603,
           "thumbnail": {
             "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_02.TIF/full/180,/0/default.jpg",
-            "type": "dctypes:Image"
+            "type": "Image"
           }
         }
       ],
