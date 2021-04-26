@@ -7,7 +7,7 @@
     "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1",
     "type": "Image"
   }],
-  "requirementStatement": {
+  "requiredStatement": {
    "label": {"fr":["Attribution"]},
    "value": {"fr":["École nationale des chartes"]}
 	},
