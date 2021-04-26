@@ -8,7 +8,18 @@
   }],
   "attribution": "École nationale des chartes",
   "rights": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
-  "logo": "https://iiif.chartes.psl.eu/img/logo-enc.png",
+  "logo": [{
+  "id":"https://iiif.chartes.psl.eu/img/logo-enc.png",
+  "type": "Image",
+  "format": "image/png",
+  "service": [
+	  {
+	    "id": "https://example.org/service/inst1",
+	    "type": "ImageService3",
+	    "profile": "level2"
+	  }
+	]
+	}],
   "metadata": [
     {
       "label": {"fr": ["Publisher"]},
@@ -79,7 +90,7 @@
           }
         }
       ],
-      "thumbnail": {
+      "thumbnail": [{
         "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1"
-      }
+      }]
 }
