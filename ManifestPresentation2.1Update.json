@@ -30,7 +30,7 @@
       "value": {"fr": ["École nationale des chartes"]}
     }
   ],
-  "sequences": [
+  "items": [
     {
       "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/sequence/normal",
