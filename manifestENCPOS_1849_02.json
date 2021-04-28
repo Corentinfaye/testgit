@@ -2,7 +2,7 @@
   "id": "https://iiif.chartes.psl.eu/manifests/manifestENCPOS_1849_02.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "label": {"fr":["ENCPOS_1849_02"]},
+  "label": {"fr":["Position de 1849 numéro 2"]},
   "requiredStatement": {
 	   "label": {"fr":["Attribution"]},
 	   "value": {"fr":["École nationale des chartes"]}
