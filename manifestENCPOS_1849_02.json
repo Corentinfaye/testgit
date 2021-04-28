@@ -1,12 +1,8 @@
 {
-  "id": "https://iiif.chartes.psl.eu/manifests/encpos/manifestENCPOS_1849_02.json",
+  "id": "https://iiif.chartes.psl.eu/manifests/manifestENCPOS_1849_02.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "label": {"fr":["ENCPOS_1849_02"]},
-  "thumbnail": [{
-    "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1",
-    "type": "Image"
-  }],
   "requiredStatement": {
    "label": {"fr":["Attribution"]},
    "value": {"fr":["École nationale des chartes"]}
@@ -46,9 +42,9 @@
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [{
-                  "context": "http://iiif.io/api/image/3/context.json",
+                  "context": "http://iiif.io/api/image/2/context.json",
                   "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_01.TIF",
-                  "profile": "http://iiif.io/api/image/3/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }]
               },
               "on": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1"
