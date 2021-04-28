@@ -42,6 +42,7 @@
 	              "id": "https://example.org/iiif/book1/annotation/p1",
 	              "type": "Annotation",
 	              "motivation": "painting",
+	              "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f1",
 	              "body": {
 	                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_01.TIF/full/full/0/default.jpg",
 	                "type": "Image",
@@ -79,6 +80,7 @@
 	              "id": "https://example.org/iiif/book1/annotation/p1",
 	              "type": "Annotation",
 	              "motivation": "painting",
+	              "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f2",
 	              "body": {
 	                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_02/ENCPOS_1849_02_02.TIF/full/full/0/default.jpg",
 	                "type": "Image",
