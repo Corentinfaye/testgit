@@ -75,7 +75,7 @@
               "motivation": "painting",
               "items": [
               	{
-	              "id": "https://example.org/iiif/book1/annotation/pa",
+	              "id": "https://example.org/iiif/book1/annotation/a2",
 	              "type": "Annotation",
 	              "motivation": "painting",
 	              "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1849_02/canvas/f2",
