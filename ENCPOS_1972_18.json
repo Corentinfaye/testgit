@@ -1,7 +1,7 @@
 {
-  "id": "https://iiif.chartes.psl.eu/manifests/manifestENCPOS_1972_18.json",
-  "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.chartes.psl.eu/encpos/ENCPOS_1972_18/manifest",
+  "type": "Manifest",
   "label": {"fr":["Le bestiaire héraldique au Moyen Âge"]},
   "requiredStatement": {
 	   "label": {"fr":["Attribution"]},
@@ -36,6 +36,51 @@
     {
       "label": {"fr": ["Lien Tenc@"]},
       "value": {"fr": ["Les forges des princes de Condé en Bretagne aux <small>XVII</small><sup>e</sup> et <small>XVIII</small><sup>e</sup> siècles"]}	
+    }
+  ],
+  "provider": [
+      {
+        "id": "https://example.org/about",
+        "type": "Agent",
+        "label": { "en": [ "Example Organization" ] },
+        "homepage": [
+          {
+            "id": "https://example.org/",
+            "type": "Text",
+            "label": { "en": [ "Example Organization Homepage" ] },
+            "format": "text/html"
+          }
+        ],
+        "logo": [
+          {
+            "id": "https://example.org/service/inst1/full/max/0/default.png",
+            "type": "Image",
+            "format": "image/png",
+            "service": [
+              {
+                "id": "https://example.org/service/inst1",
+                "type": "ImageService3",
+                "profile": "level2"
+              }
+            ]
+          }
+        ],
+        "seeAlso": [
+          {
+            "id": "https://data.example.org/about/us.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "https://schema.org/"
+          }
+        ]
+      }
+    ],
+  "homepage": [
+    {
+      "id": "https://example.org/info/book1/",
+      "type": "Text",
+      "label": { "en": [ "Home page for Book 1" ] },
+      "format": "text/html"
     }
   ],
 "items": [
@@ -485,7 +530,7 @@
 	}
 ],
       "thumbnail": [{
-        "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f1",
+        "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF/full/180,/0/default.jpg",
 	      "type": "Image",
 		  "format": "image/png",
 		  "service": [
