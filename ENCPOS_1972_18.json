@@ -2,7 +2,7 @@
   "id": "https://iiif.chartes.psl.eu/manifests/manifestENCPOS_1972_18.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "label": {"fr":["Position de 1972 numéro 18"]},
+  "label": {"fr":["Le bestiaire héraldique au Moyen Âge"]},
   "requiredStatement": {
 	   "label": {"fr":["Attribution"]},
 	   "value": {"fr":["École nationale des chartes"]}
@@ -22,10 +22,28 @@
 	}],
   "metadata": [
     {
-      "label": {"fr": ["Publisher"]},
+      "label": {"fr": ["Editeur"]},
       "value": {"fr": ["École nationale des chartes"]}
+    },
+    {
+      "label": {"fr": ["Auteur"]},
+      "value": {"fr": ["Michel Pastoureau"]}	
+    },
+    {
+      "label": {"fr": ["Titre"]},
+      "value": {"fr": ["Le bestiaire héraldique au Moyen Âge"]}	
+    },
+    {
+      "label": {"fr": ["Titre"]},
+      "value": {"fr": ["Le bestiaire héraldique au Moyen Âge"]}	
     }
   ],
+  "provider": [
+  	{
+  		"id":"https://iiif.chartes.psl.eu/",
+  		"type": "Organisation",
+  		"label": {"fr":["Ecole nationale des Chartes"]},
+  	}],
 "items": [
 	{
 	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f1",
@@ -209,6 +227,43 @@
 	  "width": 1603,
 	  "thumbnail": [{
 	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_05.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f6",
+	  "type": "Canvas",
+	  "label": {"none": ["p6"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p6",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f6",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_06.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_06.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_06.TIF/full/180,/0/default.jpg",
 	    "type": "Image"
 	  }]
 	},
