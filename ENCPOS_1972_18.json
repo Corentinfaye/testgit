@@ -100,6 +100,339 @@
 	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_02.TIF/full/180,/0/default.jpg",
 	    "type": "Image"
 	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f3",
+	  "type": "Canvas",
+	  "label": {"none": ["p3"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p3",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f3",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_03.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_03.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_03.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f4",
+	  "type": "Canvas",
+	  "label": {"none": ["p4"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p4",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f4",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_04.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_04.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_04.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f5",
+	  "type": "Canvas",
+	  "label": {"none": ["p5"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p5",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f5",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_05.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_05.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_05.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f7",
+	  "type": "Canvas",
+	  "label": {"none": ["p7"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p7",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f7",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_07.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_07.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_07.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f8",
+	  "type": "Canvas",
+	  "label": {"none": ["p8"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p8",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f8",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_08.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_08.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_08.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f9",
+	  "type": "Canvas",
+	  "label": {"none": ["p9"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p9",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f9",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_09.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_09.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_09.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f10",
+	  "type": "Canvas",
+	  "label": {"none": ["p10"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p10",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f10",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_10.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_10.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_10.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f11",
+	  "type": "Canvas",
+	  "label": {"none": ["p11"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p11",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f11",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_11.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_11.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_11.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	},
+	{
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f12",
+	  "type": "Canvas",
+	  "label": {"none": ["p12"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p12",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://example.org/iiif/book1/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f12",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_12.TIF/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_12.TIF",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2756,
+	  "width": 1603,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_12.TIF/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
 	}
 ],
       "thumbnail": [{
