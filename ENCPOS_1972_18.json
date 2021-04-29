@@ -1,8 +1,8 @@
 {
-  "id": "https://iiif.chartes.psl.eu/manifests/manifestENCPOS_1978_18.json",
+  "id": "https://iiif.chartes.psl.eu/manifests/manifestENCPOS_1972_18.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "label": {"fr":["Position de 1849 numéro 2"]},
+  "label": {"fr":["Position de 1972 numéro 18"]},
   "requiredStatement": {
 	   "label": {"fr":["Attribution"]},
 	   "value": {"fr":["École nationale des chartes"]}
@@ -28,12 +28,12 @@
   ],
 "items": [
 	{
-	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/canvas/f1",
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f1",
 	  "type": "Canvas",
 	  "label": {"none": ["p1"]},
 	  "items": [
 	    {
-	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/annotation-page/p1",
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p1",
 	      "type": "AnnotationPage",
 	      "motivation": "painting",
 	      "items": [
@@ -41,14 +41,14 @@
 	          "id": "https://example.org/iiif/book1/annotation/a1",
 	          "type": "Annotation",
 	          "motivation": "painting",
-	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/canvas/f1",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f1",
 	          "body": {
-	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1978_18/ENCPOS_1978_18_01.TIF/full/full/0/default.jpg",
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF/full/full/0/default.jpg",
 	            "type": "Image",
 	            "format": "image/jpeg",
 	            "service": [{
 	              "context": "http://iiif.io/api/image/2/context.json",
-	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1978_18/ENCPOS_1978_18_01.TIF",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF",
 	              "profile": "level2"
 	            }]
 	      	  }
@@ -60,17 +60,17 @@
 	  "height": 2764,
 	  "width": 1612,
 	  "thumbnail": [{
-	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1978_18/ENCPOS_1978_18_01.TIF/full/180,/0/default.jpg",
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF/full/180,/0/default.jpg",
 	    "type": "Image"
 	  }]
 	},
 	{
-	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/canvas/f2",
+	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f2",
 	  "type": "Canvas",
 	  "label": {"none": ["p2"]},
 	  "items": [
 	    {
-	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/annotation-page/p2",
+	      "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/annotation-page/p2",
 	      "type": "AnnotationPage",
 	      "motivation": "painting",
 	      "items": [
@@ -78,14 +78,14 @@
 	          "id": "https://example.org/iiif/book1/annotation/a1",
 	          "type": "Annotation",
 	          "motivation": "painting",
-	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/canvas/f2",
+	          "target":"https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f2",
 	          "body": {
-	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1978_18/ENCPOS_1978_18_02.TIF/full/full/0/default.jpg",
+	            "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_02.TIF/full/full/0/default.jpg",
 	            "type": "Image",
 	            "format": "image/jpeg",
 	            "service": [{
 	              "context": "http://iiif.io/api/image/2/context.json",
-	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1978_18/ENCPOS_1978_18_02.TIF",
+	              "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_02.TIF",
 	              "profile": "level2"
 	            }]
 	      	  }
@@ -97,13 +97,13 @@
 	  "height": 2756,
 	  "width": 1603,
 	  "thumbnail": [{
-	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1978_18/ENCPOS_1978_18_02.TIF/full/180,/0/default.jpg",
+	    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_02.TIF/full/180,/0/default.jpg",
 	    "type": "Image"
 	  }]
 	}
 ],
       "thumbnail": [{
-        "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1978_18/canvas/f1",
+        "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f1",
 	      "type": "Image",
 		  "format": "image/png",
 		  "service": [
