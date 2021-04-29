@@ -38,12 +38,6 @@
       "value": {"fr": ["Le bestiaire héraldique au Moyen Âge"]}	
     }
   ],
-  "provider": [
-  	{
-  		"id":"https://iiif.chartes.psl.eu/",
-  		"type": "Organisation",
-  		"label": {"fr":["Ecole nationale des Chartes"]},
-  	}],
 "items": [
 	{
 	  "id": "https://iiif.chartes.psl.eu/manifests/encpos/ENCPOS_1972_18/canvas/f1",
