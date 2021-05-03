@@ -74,12 +74,12 @@
 	          "motivation": "painting",
 	          "target":"https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1/canvas/f1",
 	          "body": {
-	            "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg/full/full/0/default.jpg",
+	            "id": "https://iiif.chartes.psl.eu/images/photopromo%2F1904-1905-v1%2F1904-1905-v1-recto.jpg/full/full/0/default.jpg",
 	            "type": "Image",
 	            "format": "image/jpeg",
 	            "service": [{
 	              "context": "http://iiif.io/api/image/2/context.json",
-	              "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg",
+	              "id": "https://iiif.chartes.psl.eu/images/photopromo%2F1904-1905-v1%2F1904-1905-v1-recto.jpg",
 	              "profile": "level2"
 	            }]
 	      	  }
@@ -91,18 +91,18 @@
 	  "height": 2764,
 	  "width": 1612,
 	  "thumbnail": [{
-	    "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1.jpg/full/180,/0/default.jpg",
+	    "id": "https://iiif.chartes.psl.eu/images/photopromo%2F1904-1905-v1%2F1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
 	    "type": "Image"
 	  }]
 	}
 ],
       "thumbnail": [{
-        "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1.jpg/full/180,/0/default.jpg",
+        "id": "https://iiif.chartes.psl.eu/images/photopromo%2F1904-1905-v1%2F1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
 	      "type": "Image",
 		  "format": "image/png",
 		  "service": [
 			  {
-			    "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
+			    "id": "https://iiif.chartes.psl.eu/images/photopromo%2F1904-1905-v1%2F1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
 			    "type": "ImageService3",
 			    "profile": "level2"
 			  }
