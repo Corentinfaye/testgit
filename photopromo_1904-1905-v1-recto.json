@@ -1,0 +1,119 @@
+{
+  "id": "https://iiif.chartes.psl.eu/iiif/photopromo/photopromo_1904-1905-v1-recto",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": "ENCPOS_1849_01",
+  "thumbnail": {
+    "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto/annotation/a1"
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided courtesy of École nationale des chartes"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q273570",
+      "type": "Agent",
+      "label": {
+        "fr": [
+          "École nationale des chartes"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "http://www.chartes.psl.eu/",
+          "type": "Dataset",
+          "label": {
+            "fr": [
+              "Accueil du site de l’École des chartes"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://iiif.chartes.psl.eu/img/logo-enc.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://iiif.chartes.psl.eu/collections/encpos1849",
+      "type": "Collection"
+    }
+  ],
+  "start": {
+    "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto/canvas/f1",
+    "type": "Canvas"
+  },
+  "metadata": [
+    {
+      "label": "Manifest Provider",
+      "value": "École nationale des chartes"
+    }
+  ],
+"items": [
+	{
+	  "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto/canvas/f1",
+	  "type": "Canvas",
+	  "label": {"none": ["p1"]},
+	  "items": [
+	    {
+	      "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto/annotation-page/p1",
+	      "type": "AnnotationPage",
+	      "motivation": "painting",
+	      "items": [
+	      	{
+	          "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto/annotation/a1",
+	          "type": "Annotation",
+	          "motivation": "painting",
+	          "target":"https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto/canvas/f1",
+	          "body": {
+	            "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg/full/full/0/default.jpg",
+	            "type": "Image",
+	            "format": "image/jpeg",
+	            "service": [{
+	              "context": "http://iiif.io/api/image/2/context.json",
+	              "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg",
+	              "profile": "level2"
+	            }]
+	      	  }
+	  		}
+	  	  ]
+	    }
+	  ],
+	  "otherContent": [],
+	  "height": 2764,
+	  "width": 1612,
+	  "thumbnail": [{
+	    "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
+	    "type": "Image"
+	  }]
+	}
+],
+      "thumbnail": [{
+        "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
+	      "type": "Image",
+		  "format": "image/png",
+		  "service": [
+			  {
+			    "id": "https://iiif.chartes.psl.eu/photopromo/photopromo_1904-1905-v1-recto.jpg/full/180,/0/default.jpg",
+			    "type": "ImageService3",
+			    "profile": "level2"
+			  }
+			]
+      }]
+}
