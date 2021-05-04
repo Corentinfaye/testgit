@@ -9,12 +9,12 @@
   },
   "thumbnail": [
     {
-      "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_06/ENCPOS_1849_06_01.TIF/full/80,100/0/default.jpg",
+      "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_06/ENCPOS_1849_06_01.TIF/full/180,/0/default.jpg",
       "type": "Image",
       "format": "image/jpeg",
       "service": [
         {
-          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_06/canvas/f1",
+          "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_06/ENCPOS_1849_06_01.TIF",
           "type": "ImageService3",
           "profile": "level1"
         }
