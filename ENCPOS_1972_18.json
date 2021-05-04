@@ -4,7 +4,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "label": {
     "fr": [
-      "ENCPOS_1972_18"
+      "Le bestiaire héraldique au Moyen Âge - Michel Pastoureau"
     ]
   },
   "thumbnail": [
@@ -113,7 +113,7 @@
    },
    {
      "label": { "fr": [ "dc:creator" ] },
-     "value": { "fr": [ "<a href=\"http://data.bnf.fr/ark:/12148/cb119187467\">Michel Pastoureau</a>" ]}
+     "value": { "fr": [ "<a href=\"http://data.bnf.fr/ark:/12148/cb119187467\">Michel Pastoureau</a>", "<a href=\"http://fr.wikipedia.org/wiki/Michel_Pastoureau\">Michel Pastoureau</a>" ]}
    },
    {
      "label": { "fr": [ "dc:publisher" ] },
