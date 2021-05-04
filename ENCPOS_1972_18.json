@@ -1,0 +1,593 @@
+{
+  "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "fr": [
+      "ENCPOS_1972_18"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF/full/180,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF",
+          "type": "ImageService3",
+          "profile": "level1"
+        }
+      ]
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided courtesy of École nationale des chartes"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q273570",
+      "type": "Agent",
+      "label": {
+        "fr": [
+          "École nationale des chartes"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "http://www.chartes.psl.eu/",
+          "type": "Dataset",
+          "label": {
+            "fr": [
+              "Accueil du site de l’École des chartes"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://iiif.chartes.psl.eu/img/logo-enc.png/full/max/0/default.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://theses.chartes.psl.eu/document/ENCPOS_1972_18",
+      "type": "Dataset",
+      "label": {
+        "fr": [
+          "Consultation de ENCPOS_1972_18"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://dev.chartes.psl.eu/dts/collections?id=ENCPOS_1972_18",
+      "type": "Dataset",
+      "format": "application/json",
+      "profile": "https://distributed-text-services.github.io/specifications/Collections-Endpoint.html"
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://dev.chartes.psl.eu/dts/document?id=ENCPOS_1972_18",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Download as XML-TEI"
+        ]
+      },
+      "format": "application/xml"
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://iiif.chartes.psl.eu/collections/encpos_test1972",
+      "type": "Collection"
+    }
+  ],
+  "start": {
+    "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f1",
+    "type": "Canvas"
+  },
+  "metadata": [
+    {
+     "label": { "fr": [ "dc:title" ] },
+     "value": { "fr": [ "Le bestiaire héraldique au Moyen Âge" ] }
+   },
+   {
+     "label": { "fr": [ "dc:creator" ] },
+     "value": { "fr": [ "<a href=\"http://data.bnf.fr/ark:/12148/cb119187467\">Michel Pastoureau</a>" ]}
+   },
+   {
+     "label": { "fr": [ "dc:publisher" ] },
+     "value": { "fr": ["École nationale des chartes"] }
+   },
+   {
+     "label": { "fr": [ "dc:source" ] },
+     "value": { "fr": ["https://www.sudoc.fr/234764724"] }
+   },
+   {
+     "label": { "fr": [ "dc:date" ] },
+     "value": { "fr": ["1972"] }
+   },
+   {
+     "label": { "fr": [ "dc:language" ] },
+     "value": { "fr": ["Français"] }
+   }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f1",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_01.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f1"
+            }
+          ]
+        }
+      ],
+      "height": 2716,
+      "width": 1689
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f2",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_02.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_02.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f2"
+            }
+          ]
+        }
+      ],
+      "height": 2717,
+      "width": 1682
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f3",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p3"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f3",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_03.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_03.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f3"
+            }
+          ]
+        }
+      ],
+      "height": 2715,
+      "width": 1686
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f4",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f4",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_04.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_04.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f4"
+            }
+          ]
+        }
+      ],
+      "height": 2718,
+      "width": 1682
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f5",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p5"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f5",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_05.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_05.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f5"
+            }
+          ]
+        }
+      ],
+      "height": 2715,
+      "width": 1686
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f6",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p6"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f6",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_06.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_06.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f6"
+            }
+          ]
+        }
+      ],
+      "height": 2717,
+      "width": 1681
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p7"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f7",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_07.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_07.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f7"
+            }
+          ]
+        }
+      ],
+      "height": 2715,
+      "width": 1684
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f8",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p8"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f8",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_08.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_08.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f8"
+            }
+          ]
+        }
+      ],
+      "height": 2718,
+      "width": 1683
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p9"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f9",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_09.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_09.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f9"
+            }
+          ]
+        }
+      ],
+      "height": 2715,
+      "width": 1687
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f10",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p10"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f10",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_10.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_10.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f10"
+            }
+          ]
+        }
+      ],
+      "height": 2719,
+      "width": 1681
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f11",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p11"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f11",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_11.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_11.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f11"
+            }
+          ]
+        }
+      ],
+      "height": 2715,
+      "width": 1686
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f12",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "p12"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation-page/p12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/annotation/a12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f12",
+              "body": {
+                "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_12.TIF/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1972_18/ENCPOS_1972_18_12.TIF",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "on": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1972_18/canvas/f12"
+            }
+          ]
+        }
+      ],
+      "height": 2718,
+      "width": 1682
+    }
+  ]
+}
