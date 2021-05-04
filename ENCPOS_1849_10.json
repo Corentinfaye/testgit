@@ -112,7 +112,6 @@
         {
           "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/annotation-page/p1",
           "type": "AnnotationPage",
-          "motivation": "painting",
           "items": [
             {
               "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/annotation/a1",
@@ -161,7 +160,6 @@
         {
           "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/annotation-page/p2",
           "type": "AnnotationPage",
-          "motivation": "painting",
           "items": [
             {
               "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/annotation/a2",
