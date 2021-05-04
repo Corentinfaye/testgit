@@ -9,17 +9,7 @@
     {
       "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg",
       "type": "Image",
-      "format": "image/jpeg",
-      "service": [
-        {
-          "id": [
-            "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg"
-          ],
-          "type": "ImageService2",
-          "profile": "level2"
-        }
-      ]
-    }
+      "format": "image/jpeg"}
   ],
   "requiredStatement": {
     "label": {
