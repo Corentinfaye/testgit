@@ -113,7 +113,7 @@
    },
    {
      "label": { "fr": [ "dc:creator" ] },
-     "value": { "fr": [ "<a href=\"http://data.bnf.fr/ark:/12148/cb119187467\">Michel Pastoureau</a>", "<a href=\"http://fr.wikipedia.org/wiki/Michel_Pastoureau\">Michel Pastoureau</a>" ]}
+     "value": { "fr": [ "<a href=\"http://data.bnf.fr/ark:/12148/cb119187467\">Michel Pastoureau</a>", "<a href=\"http://fr.wikipedia.org/wiki/Michel_Pastoureau\">Lien vers wikipedia</a>" ]}
    },
    {
      "label": { "fr": [ "dc:publisher" ] },
