@@ -139,12 +139,12 @@
       "width": 1565,
       "thumbnail": [
         {
-          "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg",
+          "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_01.TIF/full/180,/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg",
           "service": [
             {
-              "id": ["https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg"],
+              "id": ["https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/canvas/f1"],
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -185,10 +185,20 @@
       ],
       "height": 2764,
       "width": 1564,
-      "thumbnail": {
-        "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg",
-        "type": "Image"
-      }
+      "thumbnail": [
+        {
+          "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": ["https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/canvas/f2"],
+              "type": "ImageService2",
+              "profile": "level2"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
