@@ -121,7 +121,7 @@
    },
    {
      "label": { "fr": [ "dc:source" ] },
-     "value": { "fr": ["https://www.sudoc.fr/234764724"] }
+     "value": { "fr": ["<a href=\"https://www.sudoc.fr/234764724\">Lien vers la thèse</a>"] }
    },
    {
      "label": { "fr": [ "dc:date" ] },
