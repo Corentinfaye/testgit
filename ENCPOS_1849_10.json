@@ -2,9 +2,7 @@
   "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10.json",
   "type": "Manifest",
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "label": {
-    "fr": "ENCPOS_1849_10"
-  },
+  "label": { "fr": ["ENCPOS_1849_10"]},
   "thumbnail": [
     {
       "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg",
@@ -16,7 +14,8 @@
           "type": "ImageService3",
           "profile": "level1"
         }
-      ]}
+      ]
+    }
   ],
   "requiredStatement": {
     "label": {
@@ -108,11 +107,7 @@
     {
       "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/canvas/f1",
       "type": "Canvas",
-      "label": {
-        "none": [
-          "p1"
-        ]
-      },
+      "label": {"none": ["p1"]},
       "items": [
         {
           "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/annotation-page/p1",
@@ -130,9 +125,9 @@
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "@context": "http://iiif.io/api/image/2/context.json",
                     "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_01.TIF",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ]
               },
@@ -150,9 +145,7 @@
           "format": "image/jpeg",
           "service": [
             {
-              "id": [
-                "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg"
-              ],
+              "id": ["https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF/full/180,/0/default.jpg"],
               "type": "ImageService2",
               "profile": "level2"
             }
@@ -163,11 +156,7 @@
     {
       "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/canvas/f2",
       "type": "Canvas",
-      "label": {
-        "none": [
-          "p2"
-        ]
-      },
+      "label": {"none": ["p2"]},
       "items": [
         {
           "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10/annotation-page/p2",
@@ -185,9 +174,9 @@
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "@context": "http://iiif.io/api/image/2/context.json",
                     "id": "https://iiif.chartes.psl.eu/images/encpos/ENCPOS_1849_10/ENCPOS_1849_10_02.TIF",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ]
               },
