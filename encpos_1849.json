@@ -1,0 +1,128 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.chartes.psl.eu/collections/encpos_test/encpos_1849.json",
+  "type": "Collection",
+  "label": "Positions de thèses de l'École nationale des chartes",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided courtesy of École nationale des chartes"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_01.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_01"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_02.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_02"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_03.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_03"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_04.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_04"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_05.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_05"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_06.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_06"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_07.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_07"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_08.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_08"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_09.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_09"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_10.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_10"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_11.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_11"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.chartes.psl.eu/manifests/encpos_test/ENCPOS_1849_12.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "ENCPOS_1849_12"
+        ]
+      }
+    }
+  ]
+}
