@@ -1,0 +1,19 @@
+{
+    "@context":
+    {
+        "hydra": "https://www.w3.org/ns/hydra/core#",
+        "@vocab": "https://w3id.org/dts/api#"
+    },
+    "level": 1,
+    "passage": "/dts/document?id=ENCPOS_1998_06{&ref}{&start}{&end}",
+    "@id": "/dts/navigation?id=ENCPOS_1998_06",
+    "hydra:member":
+    [
+        {
+            "ref": "1"
+        }
+    ],
+    "citeDepth": 1,
+    "citeType": "position",
+    "parent": null
+}
