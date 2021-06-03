@@ -1,0 +1,75 @@
+{
+    "@id": "ENCPOS_1998_06",
+    "@type": "Resource",
+    "title": "Lécole Estienne de 1889 à 1949 : la question de l’apprentissage dans les industries du livre",
+    "totalItems": 0,
+    "dts:totalParents": 1,
+    "dts:totalChildren": 0,
+    "dts:passage": "/dts/document?id=ENCPOS_1998_06",
+    "dts:references": "/dts/navigation?id=ENCPOS_1998_06",
+    "dts:download":"https://github.com/chartes/encpos/blob/master/data/ENCPOS_1998/ENCPOS_1998_06.xml",
+    "dts:citeDepth": "1",
+    "dts:citeStructure": [
+        {
+            "dts:citeType":"position"
+        }
+    ],
+    "dts:extensions":
+    {
+   		"dct:isVersionOf":
+        [
+            "https://www.sudoc.fr/14967872X",
+            "https://hal-enc.archives-ouvertes.fr/halshs-00157091v1",
+            "http://bibnum.chartes.psl.eu/s/thenca/item/47898"
+        ],
+        "dct:extend": "47-54",
+    },
+    "dts:dublincore":
+    {
+    	"dc:type":
+        [
+            "dts:edition",
+            "dts:work"
+        ],
+        "dc:coverage": "1889-1949",
+        "dc:language": "fr",
+        "dc:creator": [
+        	"Bouju, Marie-Cécile",
+        	"https://www.idref.fr/106927396",
+        	"http://data.bnf.fr/ark:/12148/cb16254373c",
+        	"https://catalogue.bnf.fr/ark:/12148/cb16254373c",
+        	"http://wikidata.org/entity/Q42314216"
+        ],
+        "dc:publisher":
+        [
+            {
+                "@value": "École des chartes, Paris",
+                "@language": "mul"
+            }
+        ],
+        "dc:title":
+        [
+            {
+                "@value": "L’école Estienne de 1889 à 1949 : la question de l’apprentissage dans les industries du livre",
+                "@language": "fre"
+            }
+        ],
+        "dc:format": "application/tei+xml",
+        "dc:date": "1998",
+        "dc:source":
+        [
+            {
+                "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1998_06/manifest",
+                 "@type": "sc:Manifest",
+                 "dc:title": "Bouju, Marie-Cécile, L’école Estienne de 1889 à 1949 : la question de l’apprentissage dans les industries du livre"
+            }
+        ]
+    },
+    "@context":
+    {
+        "ns1": "http://purl.org/dc/elements/1.1/",
+        "dts": "https://w3id.org/dts/api#",
+        "dct": "http://purl.org/dc/terms/",
+        "@vocab": "https://www.w3.org/ns/hydra/core#"
+    }
+}

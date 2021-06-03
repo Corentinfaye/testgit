@@ -1,0 +1,77 @@
+{
+    "@id": "ENCPOS_1972_18",
+    "@type": "Resource",
+    "title": "Le bestiaire héraldique au Moyen Âge",
+    "totalItems": 0,
+    "dts:totalParents": 1,
+    "dts:totalChildren": 0,
+    "dts:passage": "/dts/document?id=ENCPOS_1972_18",
+    "dts:references": "/dts/navigation?id=ENCPOS_1972_18",
+    "dts:download":"https://github.com/chartes/encpos/blob/master/data/ENCPOS_1972/ENCPOS_1972_18.xml",
+    "dts:citeDepth": "1",
+    "dts:citeStructure": [
+        {
+            "dts:citeType":"position"
+        }
+    ],
+    "dts:extensions":
+    {
+        "dct:isPartOf":
+        [
+            "https://www.sudoc.fr/234764724"
+        ],
+        "dct:extend": "143-154"
+    },
+    "dts:dublincore":
+    {
+        "dc:type":
+        [
+            "dts:work",
+            "dts:edition"
+        ],
+        "dc:date": "1972",
+        "dc:creator":
+        [
+            "Pastoureau, Michel",
+            "https://www.idref.fr/027059952",
+            "http://data.bnf.fr/ark:/12148/cb119187467",
+            "https://catalogue.bnf.fr/ark:/12148/cb119187467",
+            "http://wikidata.org/entity/Q2497623",
+            "http://fr.wikipedia.org/wiki/Michel_Pastoureau",
+            "http://dbpedia.org/resource/Michel_Pastoureau"
+            
+        ],
+        "dc:title":
+        [
+            {
+                "@value": "Le bestiaire héraldique au Moyen Âge",
+                "@language": "fre"
+            }
+        ],
+        "dc:language": "fr",
+        "dc:format": "application/tei+xml",
+        "dc:coverage": "1000-1499",
+        "dc:publisher":
+        [
+            {
+                "@value": "École des chartes, Paris",
+                "@language": "fre"
+            }
+        ],
+        "dc:source":
+        [
+            {
+                "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_18/manifest",
+                 "@type": "sc:Manifest",
+                 "dc:title": "Michel Pastoureau, Le bestiaire héraldique au Moyen Âge"
+            }
+        ]
+    },
+    "@context":
+    {
+        "ns1": "http://purl.org/dc/elements/1.1/",
+        "dct": "http://purl.org/dc/terms/",
+        "dts": "https://w3id.org/dts/api#",
+        "@vocab": "https://www.w3.org/ns/hydra/core#"
+    }
+}
