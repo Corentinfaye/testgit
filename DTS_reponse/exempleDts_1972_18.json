@@ -16,11 +16,11 @@
     ],
     "dts:extensions":
     {
-        "dct:isPartOf":
+        "ns1:isPartOf":
         [
             "https://www.sudoc.fr/234764724"
         ],
-        "dct:extend": "143-154"
+        "ns1:extend": "143-154"
     },
     "dts:dublincore":
     {
