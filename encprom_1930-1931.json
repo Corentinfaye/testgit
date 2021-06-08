@@ -1,0 +1,272 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1930-1931",
+    "type": "Collection",
+    "label": {
+        "fr": [
+            "Photographie des promotions de l'École nationale des chartes en 1930-1931"
+        ]
+    },
+    "summary": {
+        "fr": [
+            "Les photographies des différentes promotions de École nationale des chartes en 1930-1931."
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided courtesy of École nationale des chartes"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_1/encprom_1930-1931_1_1_1.jpg/full/180,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_1/encprom_1930-1931_1_1_1.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "partOf": [
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/top",
+            "type": "Collection"
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://www.wikidata.org/wiki/Q273570",
+            "type": "Agent",
+            "label": {
+                "fr": [
+                    "École nationale des chartes"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "http://www.chartes.psl.eu/",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Accueil du site de l’École des chartes"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png/full/full/0/default.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 302,
+                    "width": 70,
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_1_1/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 1 des 1er année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_1/encprom_1930-1931_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_1/encprom_1930-1931_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_1_2/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 2 des 1er année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_2/encprom_1930-1931_1_2_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_2/encprom_1930-1931_1_2_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_2_1/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 1 des 2ème année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_2_1/encprom_1930-1931_2_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_2_1/encprom_1930-1931_2_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_3_1/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 1 des 3ème année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_1/encprom_1930-1931_3_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_1/encprom_1930-1931_3_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_3_2/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 2 des 3ème année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_2/encprom_1930-1931_3_2_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_2/encprom_1930-1931_3_2_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_3_3/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 3 des 3ème année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_3/encprom_1930-1931_3_3_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_3/encprom_1930-1931_3_3_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_3_4/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 4 des 3ème année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_4/encprom_1930-1931_3_4_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_4/encprom_1930-1931_3_4_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/encprom_1930-1931_3_5/manifest",
+            "type": "Manifest",
+            "label": {
+                "fr": [
+                    "Photographie numéro 5 des 3ème année de l'année 1930-1931 l'École nationale des chartes"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_5/encprom_1930-1931_3_5_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_3_5/encprom_1930-1931_3_5_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
