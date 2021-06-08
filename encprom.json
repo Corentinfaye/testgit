@@ -1,0 +1,542 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.chartes.psl.eu/encprom/collection/top",
+    "type": "Collection",
+    "label": {
+        "fr": [
+            "Photographie des promotions de l'École nationale des chartes"
+        ]
+    },
+    "summary": {
+        "fr": [
+            "Les photographies des différentes promotions de École nationale des chartes depuis 1904-1905"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided courtesy of École nationale des chartes"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1904-1905_2_1/encprom_1904-1905_2_1_1.jpg/full/180,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1904-1905_2_1/encprom_1904-1905_2_1_1.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://www.wikidata.org/wiki/Q273570",
+            "type": "Agent",
+            "label": {
+                "fr": [
+                    "École nationale des chartes"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "http://www.chartes.psl.eu/",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Accueil du site de l’École des chartes"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png/full/full/0/default.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 302,
+                    "width": 70,
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1904-1905",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1904-1905"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1904-1905_2_1/encprom_1904-1905_2_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1904-1905_2_1/encprom_1904-1905_2_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1905-1906",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1905-1906"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1905-1906_1_1/encprom_1905-1906_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1905-1906_1_1/encprom_1905-1906_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1907-1908",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1907-1908"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1907-1908_1_1/encprom_1907-1908_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1907-1908_1_1/encprom_1907-1908_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1908-1909",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1908-1909"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1908-1909_1_1/encprom_1908-1909_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1908-1909_1_1/encprom_1908-1909_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1909-1910",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1909-1910"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1909-1910_1_1/encprom_1909-1910_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1909-1910_1_1/encprom_1909-1910_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1911-1912",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1911-1912"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1911-1912_1_1/encprom_1911-1912_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1911-1912_1_1/encprom_1911-1912_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1913-1914",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1913-1914"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1913-1914_1_1/encprom_1913-1914_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1913-1914_1_1/encprom_1913-1914_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1918-1919",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1918-1919"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1918-1919_T_1/encprom_1918-1919_T_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1918-1919_T_1/encprom_1918-1919_T_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1919-1920",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1919-1920"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1919-1920_2_1/encprom_1919-1920_2_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1919-1920_2_1/encprom_1919-1920_2_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1920-1921",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1920-1921"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1920-1921_3_1/encprom_1920-1921_3_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1920-1921_3_1/encprom_1920-1921_3_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1921-1922",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1921-1922"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1921-1922_3_1/encprom_1921-1922_3_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1921-1922_3_1/encprom_1921-1922_3_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1922-1923",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1922-1923"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1922-1923_2_1/encprom_1922-1923_2_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1922-1923_2_1/encprom_1922-1923_2_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1924-1925",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1924-1925"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1924-1925_1_1/encprom_1924-1925_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1924-1925_1_1/encprom_1924-1925_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1926-1927",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1926-1927"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1926-1927_1_1/encprom_1926-1927_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1926-1927_1_1/encprom_1926-1927_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1927-1928",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1927-1928"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1927-1928_1_1/encprom_1927-1928_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1927-1928_1_1/encprom_1927-1928_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1928-1929",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1928-1929"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1928-1929_1_1/encprom_1928-1929_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1928-1929_1_1/encprom_1928-1929_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1929-1930",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1929-1930"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1929-1930_1_1/encprom_1929-1930_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1929-1930_1_1/encprom_1929-1930_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1930-1931",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1930-1931"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_1/encprom_1930-1931_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1930-1931_1_1/encprom_1930-1931_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1931-1932",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1931-1932"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1931-1932_1_1/encprom_1931-1932_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1931-1932_1_1/encprom_1931-1932_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/encprom/collection/encprom_1933-1934",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Photographie des promotions de l'École nationale des chartes 1933-1934"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1933-1934_1_1/encprom_1933-1934_1_1_1.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/encprom/encprom_1933-1934_1_1/encprom_1933-1934_1_1_1.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
