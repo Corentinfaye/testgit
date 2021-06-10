@@ -16,19 +16,9 @@
     ],
     "dts:extensions":
     {
-        "ns1:isPartOf":
-        [
-            "https://www.sudoc.fr/234764724"
-        ],
-        "ns1:extend": "143-154"
     },
     "dts:dublincore":
     {
-        "dc:type":
-        [
-            "dts:work",
-            "dts:edition"
-        ],
         "dc:date": "1972",
         "dc:creator":
         [
@@ -39,7 +29,6 @@
             "http://wikidata.org/entity/Q2497623",
             "http://fr.wikipedia.org/wiki/Michel_Pastoureau",
             "http://dbpedia.org/resource/Michel_Pastoureau"
-            
         ],
         "dc:title":
         [
@@ -48,23 +37,28 @@
                 "@language": "fre"
             }
         ],
-        "dc:language": "fr",
+        "dc:language": ["fre"],
         "dc:format": "application/tei+xml",
         "dc:coverage": "1000-1499",
-        "dc:publisher":
-        [
-            {
-                "@value": "École des chartes, Paris",
-                "@language": "fre"
-            }
-        ],
+        "dc:publisher": ["École nationale des chartes","https://www.wikidata.org/wiki/Q273570"],
         "dc:source":
-        [
+        [ 
+            {
+                "@id": "https://catalogue.bnf.fr/ark:/12148/cb344683389",
+                "@type": "text",
+                "dc:title": "Positions des thèses soutenues par les élèves de la promotion de ... pour obtenir le diplôme d'archiviste paléographe",
+                "dc:date": "1972",
+                "dc:extent": "p. 143-154"
+            },
             {
                 "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_18/manifest",
                  "@type": "sc:Manifest",
                  "dc:title": "Michel Pastoureau, Le bestiaire héraldique au Moyen Âge"
             }
+        ],
+        "dc:isVersionOf":
+        [
+            "https://www.sudoc.fr/234764724"
         ]
     },
     "@context":

@@ -1,25 +1,22 @@
 {
     "@id": "ENCPOS_1972",
     "@type": "Collection",
-    "title": "Les positions des thèses de l'Ecole nationale des chartes de 1972",
+    "title": "Les positions des thèses de l'École nationale des chartes de 1972",
     "totalItems": 26,
     "dts:totalParents": 1,
     "dts:totalChildren": 26,
     "dts:dublincore":
     {
-        "dc:type": "dts:textgroup",
-        "dc:publisher": "Ecole nationale des chartes",
+        "dc:publisher": ["École nationale des chartes","https://www.wikidata.org/wiki/Q273570"],
         "dc:title":
         [
             {
-                "@value": "Les positions des thèses de l'Ecole nationale des chartes de 1972",
-                "@language": "fre"
+                "@language": "fre", "@value": "Les positions des thèses de l'École nationale des chartes de 1972"
             }
         ],
-        "dc:language": "fr" 
+        "dc:language": ["fre"]
     },
     "dts:extensions":{
-        "ns3:AbbreviatedTitle": "Positions de thèses de l'Ecole nationale des chartes"
     },
     "member":[
     {
