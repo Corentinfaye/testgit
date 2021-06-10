@@ -16,13 +16,6 @@
     ],
     "dts:extensions":
     {
-   		"ns1:isVersionOf":
-        [
-            "https://www.sudoc.fr/14967872X",
-            "https://hal-enc.archives-ouvertes.fr/halshs-00157091v1",
-            "http://bibnum.chartes.psl.eu/s/thenca/item/47898"
-        ],
-        "ns1:extend": "47-54",
     },
     "dts:dublincore":
     {
@@ -63,7 +56,14 @@
                  "@type": "sc:Manifest",
                  "dc:title": "Bouju, Marie-Cécile, L’école Estienne de 1889 à 1949 : la question de l’apprentissage dans les industries du livre"
             }
-        ]
+        ],
+        "dc:isVersionOf":
+        [
+            "https://www.sudoc.fr/14967872X",
+            "https://hal-enc.archives-ouvertes.fr/halshs-00157091v1",
+            "http://bibnum.chartes.psl.eu/s/thenca/item/47898"
+        ],
+        "dc:extend": "47-54",
     },
     "@context":
     {
