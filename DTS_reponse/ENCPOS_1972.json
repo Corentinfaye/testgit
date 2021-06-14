@@ -44,6 +44,78 @@
     "member":
     [
         {
+            "@id": "ENCPOS_1972_03",
+            "@type": "Resource",
+            "title": "La Madeleine de Châteaudun : étude archéologique",
+            "totalItems": 0,
+            "dts:totalParents": 1,
+            "dts:totalChildren": 0,
+            "dts:passage": "/dts/document?id=ENCPOS_1972_03",
+            "dts:references": "/dts/navigation?id=ENCPOS_1972_03",
+            "dts:download": "https://github.com/chartes/encpos/blob/master/data/ENCPOS_1972/ENCPOS_1972_03.xml",
+            "dts:extensions":
+            {
+            },
+            "dts:dublincore":
+            {
+                "dc:source":
+                [
+                    {
+                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_03/manifest",
+                        "@type": "sc:manifest",
+                        "dc:title": "Sophie Bévillard, La Madeleine de Châteaudun : étude archéologique"
+                    }
+                ],
+                "dc:creator":
+                [
+                    {
+                        "@id": "http://data.bnf.fr/ark:/12148/cb122725828"
+                    },
+                    {
+                        "@id": "https://catalogue.bnf.fr/ark:/12148/cb122725828"
+                    },
+                    "Sophie Bévillard",
+                    {
+                        "@id": "http://wikidata.org/entity/Q42328216"
+                    },
+                    {
+                        "@id": "https://www.idref.fr/031528236"
+                    }
+                ],
+                "dc:rights":
+                [
+                    {
+                        "@id": "https://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+                    }
+                ],
+                "dc:publisher":
+                [
+                    {
+                        "@value": "École des chartes, Paris",
+                        "@language": "mul"
+                    }
+                ],
+                "dc:coverage": "500-1972",
+                "dc:date": 1972,
+                "dc:title":
+                [
+                    {
+                        "@value": "La Madeleine de Châteaudun : étude archéologique",
+                        "@language": "fre"
+                    }
+                ],
+                "dc:extend": "25-32",
+                "dc:language": "fr",
+                "dc:isVersionOf":
+                [
+                    {
+                        "@id": "https://www.sudoc.fr/234753854"
+                    }
+                ],
+                "dc:format": "application/tei+xml"
+            }
+        },
+        {
             "@id": "ENCPOS_1972_05",
             "@type": "Resource",
             "title": "Le Conseil d’État sous la Restauration",
@@ -98,7 +170,9 @@
                 "dc:source":
                 [
                     {
-                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_05/manifest"
+                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_05/manifest",
+                        "@type": "sc:manifest",
+                        "dc:title": "Michel Chabin, Le Conseil d’État sous la Restauration"
                     }
                 ],
                 "dc:publisher":
@@ -176,7 +250,9 @@
                 "dc:source":
                 [
                     {
-                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_17/manifest"
+                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_17/manifest",
+                        "@type": "sc:manifest",
+                        "dc:title": "Jean-Daniel Pariset, Les relations des rois de France et des princes protestants allemands (1541-1559)"
                     }
                 ],
                 "dc:coverage": "1541-1559"
