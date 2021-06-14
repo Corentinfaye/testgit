@@ -1,0 +1,262 @@
+{
+    "@id": "ENCPOS_1972",
+    "@type": "Collection",
+    "title": "Les positions des thèses de l'École nationale des chartes de 1972",
+    "totalItems": 26,
+    "dts:totalParents": 1,
+    "dts:totalChildren": 26,
+    "dts:dublincore":
+    {
+        "dc:title":
+        [
+            {
+                "@language": "fre",
+                "@value": "Les positions des thèses de l'École nationale des chartes de 1972"
+            }
+        ],
+        "dc:language":
+        [
+            "fre"
+        ],
+        "dc:publisher":
+        [
+            "École nationale des chartes",
+            "https://www.wikidata.org/wiki/Q273570"
+        ],
+        "dc:date": "1972",
+        "dc:source":
+        [
+            {
+                "@id": "https://catalogue.bnf.fr/ark:/12148/cb344683389",
+                "@type": "text",
+                "dc:title": "Positions des thèses soutenues par les élèves de la promotion de ... pour obtenir le diplôme d'archiviste paléographe",
+                "dc:date": "1972"
+            },
+            {
+                "@id": "https://iiif.chartes.psl.eu/collections/encpos/encpos_1972.json",
+                "@type": "sc:collection",
+                "dc:title": "Positions des thèses de l’École des chartes soutenues en 1972"
+            }
+        ]
+    },
+    "dts:extensions":
+    {},
+    "member":
+    [
+        {
+            "@id": "ENCPOS_1972_05",
+            "@type": "Resource",
+            "title": "Le Conseil d’État sous la Restauration",
+            "totalItems": 0,
+            "dts:totalParents": 1,
+            "dts:totalChildren": 0,
+            "dts:passage": "/dts/document?id=ENCPOS_1972_05",
+            "dts:references": "/dts/navigation?id=ENCPOS_1972_05",
+            "dts:download": "https://github.com/chartes/encpos/blob/master/data/ENCPOS_1972/ENCPOS_1972_05.xml",
+            "dts:extensions":
+            {},
+            "dts:dublincore":
+            {
+                "dc:creator":
+                [
+                    "Michel Chabin",
+                    {
+                        "@id": "http://wikidata.org/entity/Q42328227"
+                    },
+                    {
+                        "@id": "http://data.bnf.fr/ark:/12148/cb11895824z"
+                    },
+                    {
+                        "@id": "https://www.idref.fr/026775387"
+                    },
+                    {
+                        "@id": "https://catalogue.bnf.fr/ark:/12148/cb11895824z"
+                    }
+                ],
+                "dc:coverage": "1814-1830",
+                "dc:title":
+                [
+                    {
+                        "@value": "Le Conseil d’État sous la Restauration",
+                        "@language": "fre"
+                    }
+                ],
+                "dc:language": "fr",
+                "dc:isVersionOf":
+                [
+                    {
+                        "@id": "https://www.sudoc.fr/234756705"
+                    }
+                ],
+                "dc:rights":
+                [
+                    {
+                        "@id": "https://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+                    }
+                ],
+                "dc:extend": "43-50",
+                "dc:source":
+                [
+                    {
+                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_05/manifest"
+                    }
+                ],
+                "dc:publisher":
+                [
+                    {
+                        "@value": "École des chartes, Paris",
+                        "@language": "mul"
+                    }
+                ],
+                "dc:date": 1972,
+                "dc:format": "application/tei+xml"
+            }
+        },
+        {
+            "@id": "ENCPOS_1972_17",
+            "@type": "Resource",
+            "title": "Les relations des rois de France et des princes protestants allemands (1541-1559)",
+            "totalItems": 0,
+            "dts:totalParents": 1,
+            "dts:totalChildren": 0,
+            "dts:passage": "/dts/document?id=ENCPOS_1972_17",
+            "dts:references": "/dts/navigation?id=ENCPOS_1972_17",
+            "dts:download": "https://github.com/chartes/encpos/blob/master/data/ENCPOS_1972/ENCPOS_1972_17.xml",
+            "dts:extensions":
+            {
+            },
+            "dts:dublincore":
+            {
+                "dc:isVersionOf":
+                [
+                    {
+                        "@id": "https://www.sudoc.fr/234763663"
+                    }
+                ],
+                "dc:creator":
+                [
+                    {
+                        "@id": "http://data.bnf.fr/ark:/12148/cb12629918m"
+                    },
+                    {
+                        "@id": "https://www.idref.fr/069366969"
+                    },
+                    "Jean-Daniel Pariset",
+                    {
+                        "@id": "http://wikidata.org/entity/Q38034624"
+                    },
+                    {
+                        "@id": "https://catalogue.bnf.fr/ark:/12148/cb12629918m"
+                    }
+                ],
+                "dc:title":
+                [
+                    {
+                        "@value": "Les relations des rois de France et des princes protestants allemands (1541-1559)",
+                        "@language": "fre"
+                    }
+                ],
+                "dc:rights":
+                [
+                    {
+                        "@id": "https://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+                    }
+                ],
+                "dc:publisher":
+                [
+                    {
+                        "@value": "École des chartes, Paris",
+                        "@language": "mul"
+                    }
+                ],
+                "dc:format": "application/tei+xml",
+                "dc:extend": "137-142",
+                "dc:date": 1972,
+                "dc:language": "fr",
+                "dc:source":
+                [
+                    {
+                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_17/manifest"
+                    }
+                ],
+                "dc:coverage": "1541-1559"
+            }
+        },
+        {
+            "@id": "ENCPOS_1972_18",
+            "@type": "Resource",
+            "title": "Le bestiaire héraldique au Moyen Âge",
+            "totalItems": 0,
+            "dts:totalParents": 1,
+            "dts:totalChildren": 0,
+            "dts:passage": "/dts/document?id=ENCPOS_1972_18",
+            "dts:references": "/dts/navigation?id=ENCPOS_1972_18",
+            "dts:download": "https://github.com/chartes/encpos/blob/master/data/ENCPOS_1972/ENCPOS_1972_18.xml",
+            "dts:citeDepth": "1",
+            "dts:citeStructure":
+            [
+                {
+                    "dts:citeType": "position"
+                }
+            ],
+            "dts:extensions":
+            {
+                "ns1:isPartOf":
+                [
+                    "https://www.sudoc.fr/234764724"
+                ],
+                "ns1:extend": "143-154"
+            },
+            "dts:dublincore":
+            {
+                "dc:type":
+                [
+                    "dts:work",
+                    "dts:edition"
+                ],
+                "dc:date": "1972",
+                "dc:creator":
+                [
+                    "Pastoureau, Michel",
+                    "https://www.idref.fr/027059952",
+                    "http://data.bnf.fr/ark:/12148/cb119187467",
+                    "https://catalogue.bnf.fr/ark:/12148/cb119187467",
+                    "http://wikidata.org/entity/Q2497623",
+                    "http://fr.wikipedia.org/wiki/Michel_Pastoureau",
+                    "http://dbpedia.org/resource/Michel_Pastoureau"
+                ],
+                "dc:title":
+                [
+                    {
+                        "@value": "Le bestiaire héraldique au Moyen Âge",
+                        "@language": "fre"
+                    }
+                ],
+                "dc:language": "fr",
+                "dc:format": "application/tei+xml",
+                "dc:coverage": "1000-1499",
+                "dc:publisher":
+                [
+                    {
+                        "@value": "École des chartes, Paris",
+                        "@language": "fre"
+                    }
+                ],
+                "dc:source":
+                [
+                    {
+                        "@id": "https://iiif.chartes.psl.eu/encpos/encpos_1972_18/manifest",
+                        "@type": "sc:Manifest",
+                        "dc:title": "Michel Pastoureau, Le bestiaire héraldique au Moyen Âge"
+                    }
+                ]
+            }
+        }
+    ],
+    "@context":
+    {
+        "dts": "https://w3id.org/dts/api#",
+        "dc": "http://purl.org/dc/terms/",
+        "@vocab": "https://www.w3.org/ns/hydra/core#"
+    }
+}
