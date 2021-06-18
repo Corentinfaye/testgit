@@ -7,7 +7,7 @@
     "dts:totalChildren": 0,
     "dts:passage": "/dts/document?id=ENCPOS_1972_18",
     "dts:references": "/dts/navigation?id=ENCPOS_1972_18",
-    "dts:download":"https://github.com/chartes/encpos/blob/master/data/ENCPOS_1972/ENCPOS_1972_18.xml",
+    "dts:download":["https://github.com/chartes/encpos/raw/master/data/ENCPOS_1972/ENCPOS_1972_18.xml","https://github.com/chartes/encpos/raw/master/data/ENCPOS_1972/ENCPOS_1972_18.pdf"],
     "dts:citeDepth": "1",
     "dts:citeStructure": [
         {
