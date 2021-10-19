@@ -1,0 +1,105 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.chartes.psl.eu/lasteyrie/collection/top",
+    "type": "Collection",
+    "label": {
+        "fr": [
+            "Carnet de dessins de Robert de Lasteyrie."
+        ]
+    },
+    "summary": {
+        "fr": [
+            "Carnet de dessins de Robert de Lasteyrie."
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided courtesy of École nationale des chartes"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.chartes.psl.eu/images/lasteyrie/ENC_CARNET_NC1/ENC_CARNET_NC1_0001_L.jpg/full/180,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/lasteyrie/ENC_CARNET_NC1/ENC_CARNET_NC1_0001_L.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://www.wikidata.org/wiki/Q273570",
+            "type": "Agent",
+            "label": {
+                "fr": [
+                    "École nationale des chartes"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "http://www.chartes.psl.eu/",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Accueil du site de l’École des chartes"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png/full/full/0/default.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 302,
+                    "width": 70,
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.chartes.psl.eu/lasteyrie/enc_carnet_nc1/manifest",
+            "type": "Collection",
+            "label": {
+                "fr": [
+                    "Carnet de dessins de Robert de Lasteyrie"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/lasteyrie/ENC_CARNET_NC1/ENC_CARNET_NC1_0001_L.jpg/full/180,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/lasteyrie/ENC_CARNET_NC1/ENC_CARNET_NC1_0001_L.jpg",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
