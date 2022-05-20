@@ -1,0 +1,2606 @@
+{
+    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/manifest",
+    "type": "Manifest",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "label": {
+        "fr": [
+            "DT41"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0001.tif/full/180,/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0001.tif",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                }
+            ]
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided courtesy of École nationale des chartes"
+            ]
+        }
+    },
+    "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": [
+        {
+            "id": "https://www.wikidata.org/wiki/Q273570",
+            "type": "Agent",
+            "label": {
+                "fr": [
+                    "École nationale des chartes"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "http://www.chartes.psl.eu/",
+                    "type": "Text",
+                    "label": {
+                        "fr": [
+                            "Accueil du site de l’École des chartes"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png/full/full/0/default.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 302,
+                    "width": 70,
+                    "service": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/images/enc/logo-enc.png",
+                            "type": "ImageService2",
+                            "profile": "level2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "partOf": [
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/collection/dicotopo",
+            "type": "Collection"
+        }
+    ],
+    "start": {
+        "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f1",
+        "type": "Canvas"
+    },
+    "metadata": [
+        {
+            "label": {
+                "fr": "Date"
+            },
+            "value": {
+                "fr": "1928-1929"
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 1"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f1",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0001.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0001.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f1"
+                        }
+                    ]
+                }
+            ],
+            "height": 2424,
+            "width": 1659
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f2",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 2"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a2",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f2",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0002.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0002.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f2"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f3",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 3"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p3",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f3",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0003.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0003.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f3"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f4",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 4"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p4",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f4",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0004.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0004.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f4"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f5",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 5"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p5",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a5",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f5",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0005.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0005.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f5"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f6",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 6"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p6",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a6",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f6",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0006.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0006.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f6"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f7",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 7"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p7",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a7",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f7",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0007.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0007.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f7"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f8",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 8"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p8",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a8",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f8",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0008.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0008.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f8"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f9",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 9"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p9",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a9",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f9",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0009.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0009.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f9"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f10",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 10"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p10",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a10",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f10",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0010.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0010.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f10"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f11",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 11"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p11",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a11",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f11",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0011.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0011.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f11"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f12",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 12"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p12",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a12",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f12",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0012.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0012.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f12"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f13",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 13"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p13",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a13",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f13",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0013.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0013.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f13"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f14",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 14"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p14",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a14",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f14",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0014.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0014.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f14"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f15",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 15"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p15",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a15",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f15",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0015.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0015.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f15"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f16",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 16"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p16",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a16",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f16",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0016.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0016.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f16"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f17",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 17"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p17",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a17",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f17",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0017.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0017.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f17"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f18",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 18"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p18",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a18",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f18",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0018.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0018.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f18"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f19",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 19"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p19",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a19",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f19",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0019.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0019.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f19"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f20",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 20"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p20",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a20",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f20",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0020.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0020.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f20"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f21",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 21"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p21",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a21",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f21",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0021.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0021.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f21"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f22",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 22"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p22",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a22",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f22",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0022.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0022.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f22"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f23",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 23"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p23",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a23",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f23",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0023.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0023.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f23"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f24",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 24"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p24",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a24",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f24",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0024.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0024.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f24"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f25",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 25"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p25",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a25",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f25",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0025.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0025.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f25"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f26",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 26"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p26",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a26",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f26",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0026.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0026.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f26"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f27",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 27"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p27",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a27",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f27",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0027.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0027.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f27"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f28",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 28"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p28",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a28",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f28",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0028.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0028.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f28"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f29",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 29"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p29",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a29",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f29",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0029.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0029.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f29"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f30",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 30"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p30",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a30",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f30",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0030.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0030.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f30"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f31",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 31"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p31",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a31",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f31",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0031.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0031.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f31"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f32",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 32"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p32",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a32",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f32",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0032.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0032.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f32"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f33",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 33"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p33",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a33",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f33",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0033.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0033.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f33"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f34",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 34"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p34",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a34",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f34",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0034.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0034.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f34"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f35",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 35"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p35",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a35",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f35",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0035.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0035.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f35"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f36",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 36"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p36",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a36",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f36",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0036.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0036.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f36"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f37",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 37"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p37",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a37",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f37",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0037.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0037.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f37"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f38",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 38"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p38",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a38",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f38",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0038.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0038.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f38"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f39",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 39"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p39",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a39",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f39",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0039.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0039.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f39"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f40",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 40"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p40",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a40",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f40",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0040.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0040.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f40"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f41",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 41"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p41",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a41",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f41",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0041.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0041.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f41"
+                        }
+                    ]
+                }
+            ],
+            "height": 2412,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f42",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 42"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p42",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a42",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f42",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0042.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0042.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f42"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f43",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 43"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p43",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a43",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f43",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0043.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0043.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f43"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f44",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 44"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p44",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a44",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f44",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0044.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0044.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f44"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1617
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f45",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 45"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p45",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a45",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f45",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0045.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0045.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f45"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1617
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f46",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 46"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p46",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a46",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f46",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0046.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0046.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f46"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f47",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 47"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p47",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a47",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f47",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0047.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0047.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f47"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f48",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 48"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p48",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a48",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f48",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0048.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0048.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f48"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f49",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 49"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p49",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a49",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f49",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0049.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0049.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f49"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f50",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 50"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p50",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a50",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f50",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0050.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0050.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f50"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f51",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 51"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p51",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a51",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f51",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0051.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0051.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f51"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f52",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 52"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p52",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a52",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f52",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0052.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0052.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f52"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f53",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 53"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p53",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a53",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f53",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0053.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0053.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f53"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f54",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 54"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p54",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a54",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f54",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0054.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0054.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f54"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f55",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 55"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p55",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a55",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f55",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0055.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0055.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f55"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1626
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f56",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 56"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p56",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a56",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f56",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0056.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0056.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f56"
+                        }
+                    ]
+                }
+            ],
+            "height": 2421,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f57",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 57"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p57",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a57",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f57",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0057.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0057.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f57"
+                        }
+                    ]
+                }
+            ],
+            "height": 2421,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f58",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 58"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p58",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a58",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f58",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0058.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0058.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f58"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f59",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 59"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p59",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a59",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f59",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0059.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0059.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f59"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f60",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 60"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p60",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a60",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f60",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0060.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0060.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f60"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f61",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 61"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p61",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a61",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f61",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0061.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0061.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f61"
+                        }
+                    ]
+                }
+            ],
+            "height": 2415,
+            "width": 1623
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f62",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 62"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p62",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a62",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f62",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0062.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0062.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f62"
+                        }
+                    ]
+                }
+            ],
+            "height": 2421,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f63",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 63"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p63",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a63",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f63",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0063.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0063.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f63"
+                        }
+                    ]
+                }
+            ],
+            "height": 2421,
+            "width": 1620
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f64",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 64"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p64",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a64",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f64",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0064.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0064.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f64"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f65",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 65"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p65",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a65",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f65",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0065.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0065.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f65"
+                        }
+                    ]
+                }
+            ],
+            "height": 2418,
+            "width": 1629
+        },
+        {
+            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f66",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 66"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation-page/p66",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.chartes.psl.eu/dicotopo/dt41/annotation/a66",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f66",
+                            "body": {
+                                "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0066.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "id": "https://iiif.chartes.psl.eu/images/dicotopo/DT41/DT41_0066.tif",
+                                        "type": "ImageService2",
+                                        "profile": "level2"
+                                    }
+                                ]
+                            },
+                            "on": "https://iiif.chartes.psl.eu/dicotopo/dt41/canvas/f66"
+                        }
+                    ]
+                }
+            ],
+            "height": 2424,
+            "width": 1623
+        }
+    ]
+}
